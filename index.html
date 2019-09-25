@@ -92,9 +92,23 @@
             <section class="section summary-section">
                 <h2 class="section-title"><i class="fa fa-user"></i>Research Profile</h2>
                 <div class="summary">
-                    <p>I'm a PhD student from University of Amsterdam. My research interests are Information Retrieval, Dialogue systems and Inverse Reinforcement Learning. Currently I'm working on policy learning in task-oriented dialog systems.</p>
+                    <p>I'm a PhD student from University of Amsterdam. My research interests are Information Retrieval, Dialogue systems and Inverse Reinforcement Learning. Currently I'm working on policy learning in task-oriented dialog systems. <a href="cv_zmli.pdf">(CV)</a></p>
                 </div><!--//summary-->
             </section><!--//section-->
+
+            <section class="section papers-uva-section">
+                    <h2 class="section-title"><i class="fa fa-download"></i>Publications at University of Amsterdam </h2>
+                    <div class="item" ng-repeat="paper in papersUVA">
+                         <span class="paper-title" ng-bind-template="[{{paper.author}}] {{paper.name}} {{paper.journal}}"></span> - <span class="project-tagline" ng-click="downloadPaper(paper.link)"><a class="cursor-pointer company">Link</a></span>
+                    </div><!--//item-->
+                </section><!--//section-->
+    
+                <section class="section papers-xiamen-section">
+                        <h2 class="section-title"><i class="fa fa-download"></i>Publications at Xiamen Univeristy</h2>
+                        <div class="item" ng-repeat="paper in papersXiamen">
+                                <span class="paper-title" ng-bind-template="[{{paper.author}}] {{paper.name}} {{paper.journal}}"></span> 
+                        </div><!--//item-->
+                    </section><!--//section-->
             
             <section class="section internship-section">
                     <h2 class="section-title"><i class="fa fa-briefcase"></i>Internships</h2>
@@ -113,6 +127,47 @@
                     </div>
                     <!--//item-->
             </section><!--//section-->
+
+
+            <section class="section academic-activities">
+                    <h2 class="section-title"><i class="fa fa-briefcase"></i>Academic Activities</h2>
+                    
+                    <div class="item">
+                            <div class="meta">
+                                <div class="upper-row">
+                                    <h3 class="job-title">Reviewing</h3>
+                                    <div class="time">2016 - present</div>
+                                </div>
+                                <!--//upper-row-->
+                                <div class="company">University of Amsterdam</div>
+                            </div>
+                            <!--//meta-->
+                            <div class="details">
+                                <p>TOIS, IPM, ECIR'18, SIGIR'18, CIKM'18, NAACL'19, SIGIR'19, EMNLP'19, NeurIPS'19</p>
+                            </div>
+                            <!--//details-->
+                        </div>
+                        <!--//item-->
+
+                        <div class="item">
+                                <div class="meta">
+                                    <div class="upper-row">
+                                        <h3 class="job-title">Summer School</h3>
+                                        <div class="time">2017</div>
+                                    </div>
+                                    <!--//upper-row-->
+                                    <div class="company">University of Amsterdam</div>
+                                </div>
+                                <!--//meta-->
+                                <div class="details">
+                                    <p>European Summer School in Information Retrieval 2017, Barcelona, Spain</p>
+                                </div>
+                                <!--//details-->
+                            </div>
+                            <!--//item-->
+                
+            </section><!--//section-->          
+
 
             <section class="section teaching-experiences-section">
                 <h2 class="section-title"><i class="fa fa-briefcase"></i>Teaching Experiences</h2>
@@ -160,58 +215,8 @@
                     <!--//item-->
                 </section><!--//section-->
 
-        <section class="section academic-activities">
-                    <h2 class="section-title"><i class="fa fa-briefcase"></i>Academic Activities</h2>
-                    
-                    <div class="item">
-                            <div class="meta">
-                                <div class="upper-row">
-                                    <h3 class="job-title">Reviewing</h3>
-                                    <div class="time">2016 - present</div>
-                                </div>
-                                <!--//upper-row-->
-                                <div class="company">University of Amsterdam</div>
-                            </div>
-                            <!--//meta-->
-                            <div class="details">
-                                <p>TOIS, IPM, ECIR'18, SIGIR'18, CIKM'18, NAACL'19, SIGIR'19, EMNLP'19, NeurIPS'19</p>
-                            </div>
-                            <!--//details-->
-                        </div>
-                        <!--//item-->
-
-                        <div class="item">
-                                <div class="meta">
-                                    <div class="upper-row">
-                                        <h3 class="job-title">Summer School</h3>
-                                        <div class="time">2017</div>
-                                    </div>
-                                    <!--//upper-row-->
-                                    <div class="company">University of Amsterdam</div>
-                                </div>
-                                <!--//meta-->
-                                <div class="details">
-                                    <p>European Summer School in Information Retrieval 2017, Barcelona, Spain</p>
-                                </div>
-                                <!--//details-->
-                            </div>
-                            <!--//item-->
-                
-            </section><!--//section-->          
-
-            <section class="section papers-uva-section">
-                <h2 class="section-title"><i class="fa fa-download"></i>Publications</h2>
-                <div class="item" ng-repeat="paper in papersUVA">
-                     <span class="paper-title" ng-bind-template="[{{paper.author}}] {{paper.name}} {{paper.journal}}"></span> - <span class="project-tagline" ng-click="downloadPaper(paper.link)"><a class="cursor-pointer company">Download</a></span>
-                </div><!--//item-->
-            </section><!--//section-->
-
-            <section class="section papers-xiamen-section">
-                    <h2 class="section-title"><i class="fa fa-download"></i>Publications</h2>
-                    <div class="item" ng-repeat="paper in papersXiamen">
-                            <span class="paper-title" ng-bind-template="[{{paper.author}}] {{paper.name}} {{paper.journal}}"></span> 
-                    </div><!--//item-->
-                </section><!--//section-->
+     
+      
 
                 <section class="section awards-activities">
                         <h2 class="section-title"><i class="fa fa-briefcase"></i>Awards and Achievements</h2>

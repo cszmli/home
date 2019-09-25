@@ -15,7 +15,8 @@
   company: University of Amsterdam 
   job_title: Summer school
   dates: 2017
-  description: European Summer School in Information Retrieval 2017, Barcelona, Spain
+  description: |
+  European Summer School in Information Retrieval 2017, Barcelona, Spain
 
 
 - layout: left
@@ -32,11 +33,11 @@
   description: | # this will include new lines to allow paragraphs
     Master Theses:
     
-    Cyclists’ Route Choice in Amsterdam: Finding Factors of Inﬂuence and Predicting Cyclists’ Route ChoicE, with Chris Olberts
+    1. Cyclists’ Route Choice in Amsterdam: Finding Factors of Inﬂuence and Predicting Cyclists’ Route ChoicE, with Chris Olberts
 
-    How to measure a neighborhood: Exploring geo-spatial data enrichment and neighborhood embeddings for housing price prediction, with Guus Bobeldijk
+    2. How to measure a neighborhood: Exploring geo-spatial data enrichment and neighborhood embeddings for housing price prediction, with Guus Bobeldijk
 
-    Text Classification for Ground Lease Documents, with Rouel de Romas
+    3. Text Classification for Ground Lease Documents, with Rouel de Romas
 
-    Predicting salary using Job posting data, with Roma Bakhyshov
+    4. Predicting salary using Job posting data, with Roma Bakhyshov
 

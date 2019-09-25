@@ -4,22 +4,25 @@
   qualification: PhD Candidate
   description: | # this will include new lines to allow paragraphs
     Supervisor: Prof. Dr. Maarten de Rijke
+
     Co-Supervisor: Dr. Julia Kiseleva
+
     Research Topic: Information Retrieval, Dialogue systems and Inverse Reinforcement Learning
 
-  name: University of Amsterdam
-  dates: 2016-present
-  qualification: PhD Candidate
+- layout: left
+  name: Xiamen University
+  dates: 2013-2016
+  qualification: Master Degree
   description: | # this will include new lines to allow paragraphs
-    Supervisor: Prof. Dr. Maarten de Rijke
-    Co-Supervisor: Dr. Julia Kiseleva
-    Research Topic: Information Retrieval, Dialogue systems and Inverse Reinforcement Learning
+    Supervisor: Xiangrong Liu
 
+    Research Topic: Membrane Computing, Bioinformatics
 
-  name: University of Amsterdam
-  dates: 2016-present
-  qualification: PhD Candidate
+    Thesis Title: Research on Some Mathematical Problems Based on Time-free P Systems (9.2/10, Outstanding Master Thesis Title)
+
+- layout: left
+  name: Xiamen University
+  dates: 2009-2013
+  qualification: Bachelor Degree
   description: | # this will include new lines to allow paragraphs
-    Supervisor: Prof. Dr. Maarten de Rijke
-    Co-Supervisor: Dr. Julia Kiseleva
-    Research Topic: Information Retrieval, Dialogue systems and Inverse Reinforcement Learning
+    Thesis Title: Parameterization of Triangular Meshes (graded 8.9/10, Outstanding Bachelor Thesis Title)

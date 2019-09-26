@@ -88,20 +88,17 @@ Since: 06/08/2016
 		};
 
 		$scope.goToLinkedIn = function(){
-			document.location.assign("https://www.linkedin.com/in/mariana-de-azevedo-santos-1a126321");
+			document.location.assign("https://www.linkedin.com/in/zmli/");
 		};
 
 		$scope.goToGithub = function(){
-			document.location.assign("https://github.com/mariazevedo88");
+			document.location.assign("https://https://zimingli.info/");
 		};
 
 		$scope.sendMail = function(){
-    		$window.location.href = "mailto:mariana@bsi.ufla.br";
+    		$window.location.href = "mailto:cszimingli@gmail.com";
 		};
 		
-		$scope.goToSourcerer = function(){
-			$window.location.href = "https://sourcerer.io/mariazevedo88"
-		}
 
     $scope.downloadPaper = function(link){
     		$window.location.href = link;

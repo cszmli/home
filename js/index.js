@@ -22,8 +22,8 @@ Since: 06/08/2016
 			'author': 'Li, Z., Kiseleva, J. & de Rijke, M.',
 			'link': 'https://arxiv.org/abs/1812.03509' 
 			},
-			{'name': 'Optimizing interactive systems with data-driven objectives. ',
-			'journal': 'under submission',
+			{'name': 'Learning Data-Driven Objectives to Optimize Interactive Systems. ',
+			'journal': 'to appear in NeurIPS Workshop (LIRE2019)',
 			'author': 'Li, Z., Grotov, A., Kiseleva, J., de Rijke, M. & Oosterhuis, H.',
 			'link': 'https://arxiv.org/abs/1802.06306' 
 			},

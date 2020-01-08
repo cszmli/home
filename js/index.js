@@ -23,11 +23,11 @@ Since: 06/08/2016
 			'link': 'https://arxiv.org/abs/1812.03509' 
 			},
 			{'name': 'Learning Data-Driven Objectives to Optimize Interactive Systems. ',
-			'journal': 'to appear in NeurIPS Workshop (LIRE2019)',
+			'journal': 'LIRE workshop of NeurIPS 2019',
 			'author': 'Li, Z., Grotov, A., Kiseleva, J., de Rijke, M. & Oosterhuis, H.',
 			'link': 'https://arxiv.org/abs/1802.06306' 
 			},
-			{'name': 'Diagnosing and optimizing a task-oriented dialogue system with reward shaping. ',
+			{'name': 'Dialogue Policy Learning: Supervised, Adversarial and Reinforcement Learning. ',
 			'journal': 'under submission',
 			'author': 'Li, Z., Kiseleva, J. & de Rijke, M.',
 			'link': 'cszmli.github.io' 

@@ -17,25 +17,25 @@ Since: 06/08/2016
 		];
 
   	    $scope.papersUVA = [
-			{'name': 'Dialogue generation: From imitation learning to inverse reinforcement learning. ',
-			'journal': 'AAAI 2019',
-			'author': 'Li, Z., Kiseleva, J. & de Rijke, M.',
-			'link': 'https://arxiv.org/abs/1812.03509' 
-			},
 			{'name': 'Guided Dialog Policy Learning without Adversarial Learning in the Loop. ',
 			'journal': 'preprint',
 			'author': 'Li, Z., Lee, S., Peng, B., Li, J., Kiseleva, J., de Rijke, M., Shayandeh, S., Gao, J.',
 			'link': 'https://arxiv.org/abs/2004.03267' 
 			},
+			{'name': 'Rethinking Supervised Learning and Reinforcement Learning in Task-oriented Dialogue Systems. ',
+			'journal': 'preprint',
+			'author': 'Li, Z., Kiseleva, J. & de Rijke, M.',
+			'link': 'cszmli.github.io' 
+			},
+			{'name': 'Dialogue generation: From imitation learning to inverse reinforcement learning. ',
+			'journal': 'AAAI 2019',
+			'author': 'Li, Z., Kiseleva, J. & de Rijke, M.',
+			'link': 'https://arxiv.org/abs/1812.03509' 
+			},
 			{'name': 'Learning Data-Driven Objectives to Optimize Interactive Systems. ',
 			'journal': 'LIRE workshop of NeurIPS 2019',
 			'author': 'Li, Z., Kiseleva, Agarwal, A., J., de Rijke, M.',
 			'link': 'https://arxiv.org/abs/1802.06306' 
-			},
-			{'name': 'Dialogue Policy Learning: Supervised, Adversarial and Reinforcement Learning. ',
-			'journal': 'under submission',
-			'author': 'Li, Z., Kiseleva, J. & de Rijke, M.',
-			'link': 'cszmli.github.io' 
 			},
 			{'name': 'The impact of linkage methods in hierarchical clustering for active learning to rank. ',
 			'journal': 'SIGIR 2017',

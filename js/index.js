@@ -18,14 +18,19 @@ Since: 06/08/2016
 
   	    $scope.papersUVA = [
 			{'name': 'Guided Dialog Policy Learning without Adversarial Learning in the Loop. ',
-			'journal': 'preprint',
+			'journal': 'Fingdings of EMNLP 2020',
 			'author': 'Li, Z., Lee, S., Peng, B., Li, J., Kiseleva, J., de Rijke, M., Shayandeh, S., Gao, J.',
-			'link': 'https://arxiv.org/abs/2004.03267' 
+			'link': 'https://arxiv.org/abs/2004.03267v2' 
 			},
 			{'name': 'Rethinking Supervised Learning and Reinforcement Learning in Task-oriented Dialogue Systems. ',
-			'journal': 'preprint',
+			'journal': 'Fingdings of EMNLP 2020',
 			'author': 'Li, Z., Kiseleva, J. & de Rijke, M.',
 			'link': 'cszmli.github.io' 
+			},
+			{'name': 'Optimizing Interactive Systems via Data-Driven Objectives. ',
+			'journal': 'preprint',
+			'author': 'Li, Z., Kiseleva, J., Agarwal A., de Rijke, M. & W. White R',
+			'link': 'https://arxiv.org/abs/2006.12999' 
 			},
 			{'name': 'Dialogue generation: From imitation learning to inverse reinforcement learning. ',
 			'journal': 'AAAI 2019',

@@ -25,7 +25,7 @@ Since: 06/08/2016
 			{'name': 'Rethinking Supervised Learning and Reinforcement Learning in Task-oriented Dialogue Systems. ',
 			'journal': 'Findings of EMNLP 2020',
 			'author': 'Li, Z., Kiseleva, J. & de Rijke, M.',
-			'link': 'cszmli.github.io' 
+			'link': 'https://arxiv.org/abs/2009.09781' 
 			},
 			{'name': 'Optimizing Interactive Systems via Data-Driven Objectives. ',
 			'journal': 'preprint',

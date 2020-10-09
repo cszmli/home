@@ -67,6 +67,10 @@ Since: 06/08/2016
 			'journal': 'IEEE transactions on nanobioscience',
 			'author': 'Liu, X., Li, Z., Liu, J., Liu, L. & Zeng, X.'
 			},
+			{'name': 'Reusable Logic Gates Based on DNA Strand Branch Migration. ',
+			'journal': ' Journal of Computational and Theoretical Nanoscience',
+			'author': 'Liu, X., Suo, J., Li, Z., Zou, Q., Liu, J. and Ju, Y.'
+			}
 		];
 
 	  $scope.init = function(){

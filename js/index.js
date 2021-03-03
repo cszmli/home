@@ -17,8 +17,13 @@ Since: 06/08/2016
 		];
 
   	    $scope.papersUVA = [
+			{'name': 'A Data-driven Approach to Estimate User Satisfaction in Multi-turn Dialogues. ',
+			'journal':  'preprint 2021',
+			'author': 'Li, Z., Park, D., Kiseleva, J., Kim, YB. & Lee, S.',
+			'link': 'https://arxiv.org/abs/2103.01287' 
+			},
 			{'name': 'Guided Dialog Policy Learning without Adversarial Learning in the Loop. ',
-			'journal': 'Findings of EMNLP 2020',
+			'journal':'Findings of EMNLP 2020',
 			'author': 'Li, Z., Lee, S., Peng, B., Li, J., Kiseleva, J., de Rijke, M., Shayandeh, S., Gao, J.',
 			'link': 'https://arxiv.org/abs/2004.03267v2' 
 			},
@@ -39,7 +44,7 @@ Since: 06/08/2016
 			},
 			{'name': 'Learning Data-Driven Objectives to Optimize Interactive Systems. ',
 			'journal': 'LIRE workshop of NeurIPS 2019',
-			'author': 'Li, Z., Kiseleva, Agarwal, A., J., de Rijke, M.',
+			'author': 'Li, Z., Kiseleva, J., Agarwal, A. & de Rijke, M.',
 			'link': 'https://arxiv.org/abs/1802.06306' 
 			},
 			{'name': 'The impact of linkage methods in hierarchical clustering for active learning to rank. ',

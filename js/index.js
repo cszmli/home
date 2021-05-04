@@ -17,6 +17,11 @@ Since: 06/08/2016
 		];
 
   	    $scope.papersUVA = [
+			{'name': 'Improving Response Quality with Backward Reasoning in Open-domain Dialogue Systems. ',
+			'journal': 'SIGIR 2021',
+			'author': 'Li, Z., Kiseleva, J. & de Rijke, M.',
+			'link': 'https://arxiv.org/abs/2105.00079' 
+			},
 			{'name': 'A Data-driven Approach to Estimate User Satisfaction in Multi-turn Dialogues. ',
 			'journal':  'preprint 2021',
 			'author': 'Li, Z., Park, D., Kiseleva, J., Kim, YB. & Lee, S.',

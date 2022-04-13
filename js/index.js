@@ -17,6 +17,11 @@ Since: 06/08/2016
 		];
 
   	    $scope.papersUVA = [
+			{'name': 'Neurips 2021 competition iglu: Interactive grounded language understanding in a collaborative environment ',
+			'journal': 'preprint 2021',
+			'author': 'Kiseleva, J., Li, Z., Aliannejadi, M., Mohanty, S., ter Hoeve, M., Burtsev, M., ... & Awadallah, A.',
+			'link': 'https://arxiv.org/abs/2110.06536' 
+			},
 			{'name': 'Improving Response Quality with Backward Reasoning in Open-domain Dialogue Systems. ',
 			'journal': 'SIGIR 2021',
 			'author': 'Li, Z., Kiseleva, J. & de Rijke, M.',

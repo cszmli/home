@@ -17,12 +17,12 @@ Since: 06/08/2016
 		];
 
   	    $scope.papersUVA = [
-		        {'name': 'Iglu 2022: Interactive grounded language understanding in a collaborative environment at neurips 2022',
+		        {'name': 'Iglu 2022: Interactive grounded language understanding in a collaborative environment at neurips 2022. ',
 			'journal': 'arXiv preprint arXiv:2205.13771',
 			'author': 'Kiseleva J, Skrynnik A, Zholus A, Mohanty S, Arabzadeh N, Côté MA, Aliannejadi M, Teruel M, Li Z, Burtsev M, ter Hoeve M',
 			'link': 'https://arxiv.org/abs/2205.13771' 
 			},
-			{'name': 'Neurips 2021 competition iglu: Interactive grounded language understanding in a collaborative environment ',
+			{'name': 'Neurips 2021 competition iglu: Interactive grounded language understanding in a collaborative environment. ',
 			'journal': 'preprint 2021',
 			'author': 'Kiseleva, J., Li, Z., Aliannejadi, M., Mohanty, S., ter Hoeve, M., Burtsev, M., ... & Awadallah, A.',
 			'link': 'https://arxiv.org/abs/2110.06536' 

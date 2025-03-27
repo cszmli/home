@@ -90,12 +90,24 @@
             <section class="section summary-section">
                 <h2 class="section-title"><i class="fa fa-user"></i>About Me</h2>
                 <div class="summary">
-                    <p>My research interest is developing advanced dialogue systems, including both open-domain and task-oriented dialogue systems. I'm also interested in the fields of information retrieval and optimizing interactive systems by learning from users. <a href="zmli_cv.pdf" style="color:blue">(CV Link)</a></p>
+                    <p>I develop large-scale machine learning systems (e.g., GNN) at Amazon
+to detect unsafe products violating policies. Previously, I focused
+on advanced dialogue systems, both open-domain and task-oriented. My
+expertise spans information retrieval and optimizing interactive systems
+through user learning, now applied to protect customers and maintain
+marketplace integrity. <a href="zmli_cv.pdf" style="color:blue">(CV Link)</a></p>
                     <p>I defended my Ph.D. thesis at University of Amsterdam in 2020. You can find my Ph.D. thesis <a href="thesis.pdf" style="color:blue">here</a>.</p>
-                    <p>I joined Amazon Alexa AI in Seattle as an Applied Scientist in the summer of 2021.</p>
+                    <p>I joined Amazon in Seattle as an Applied Scientist in the summer of 2021.</p>
                 </div><!--//summary-->
             </section><!--//section-->
 
+                <section class="section papers-amazon-section">
+                    <h2 class="section-title"><i class="fa fa-download"></i>Publications at Amazon </h2>
+                    <div class="item" ng-repeat="paper in papersAmazon">
+                         <span class="paper-title" ng-bind-template="[{{paper.author}}] {{paper.name}} {{paper.journal}}"></span> - <span class="project-tagline" ng-click="downloadPaper(paper.link)"><a class="cursor-pointer company">Link</a></span>
+                    </div><!--//item-->
+                </section><!--//section-->
+          
             <section class="section papers-uva-section">
                     <h2 class="section-title"><i class="fa fa-download"></i>Publications at University of Amsterdam </h2>
                     <div class="item" ng-repeat="paper in papersUVA">

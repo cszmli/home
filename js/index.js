@@ -16,7 +16,7 @@ Since: 06/08/2016
 			},
 		];
 	
-	    $scope.papersUVA = [
+	    $scope.papersAmazon = [
 		    	{'name': 'Making Task-Oriented Dialogue Datasets More Natural by Synthetically Generating Indirect User Requests ',
 			'journal': 'COLING 2025',
 			'author': 'Amogh Mannekote, Jinseok Nam, Ziming Li, Kristy Elizabeth Boyer, and Bonnie J. Dorr',

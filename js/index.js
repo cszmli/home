@@ -15,13 +15,20 @@ Since: 06/08/2016
 				'link': ''
 			},
 		];
-
-  	    $scope.papersUVA = [
+	
+	    $scope.papersUVA = [
+		    	{'name': 'Making Task-Oriented Dialogue Datasets More Natural by Synthetically Generating Indirect User Requests ',
+			'journal': 'COLING 2025',
+			'author': 'Amogh Mannekote, Jinseok Nam, Ziming Li, Kristy Elizabeth Boyer, and Bonnie J. Dorr',
+			'link': 'https://aclanthology.org/2025.coling-main.696/' 
+			},
 		        {'name': 'Iglu 2022: Interactive grounded language understanding in a collaborative environment at neurips 2022. ',
 			'journal': 'arXiv preprint arXiv:2205.13771',
 			'author': 'Kiseleva J, Skrynnik A, Zholus A, Mohanty S, Arabzadeh N, Côté MA, Aliannejadi M, Teruel M, Li Z, Burtsev M, ter Hoeve M',
 			'link': 'https://arxiv.org/abs/2205.13771' 
-			},
+			}
+		    ]
+  	    $scope.papersUVA = [
 			{'name': 'Interactive grounded language understanding in a collaborative environment: Iglu 2021.',
 			'journal': 'In NeurIPS 2021 Competitions and Demonstrations Track. PMLR.',
 			'author': 'Kiseleva, J., Li, Z., Aliannejadi, M., Mohanty, S., ter Hoeve, M., Burtsev, M., ... & Awadallah, A.',
